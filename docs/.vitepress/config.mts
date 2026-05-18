@@ -22,6 +22,9 @@ export default defineConfig({
           { text: 'Server Requirements', link: '/general/server-requirements' },
           { text: 'Recommended Web Hosts', link: '/general/recommended-web-hosts' },
           { text: 'Keep WordPress Up To Date', link: '/general/keep-wordpress-up-to-date' },
+          { text: 'Low Budget Hosts', link: '/general/low-budget-hosts' },
+          { text: 'Theme Documentations', link: '/general/theme-documentations' },
+          { text: 'Bundled Plugin Activation', link: '/general/bundled-plugin-activation' },
         ]
       },
       {
