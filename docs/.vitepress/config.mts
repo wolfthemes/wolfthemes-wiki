@@ -20,6 +20,7 @@ export default defineConfig({
           { text: 'WordPress General', link: '/general/wordpress-general' },
           { text: 'About our Themes', link: '/general/about-our-themes' },
           { text: 'Server Requirements', link: '/general/server-requirements' },
+          { text: 'Recommended Web Hosts', link: '/general/recommended-web-hosts' },
         ]
       },
       {
