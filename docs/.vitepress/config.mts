@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'About our Themes', link: '/general/about-our-themes' },
           { text: 'Server Requirements', link: '/general/server-requirements' },
           { text: 'Recommended Web Hosts', link: '/general/recommended-web-hosts' },
+          { text: 'Keep WordPress Up To Date', link: '/general/keep-wordpress-up-to-date' },
         ]
       },
       {
