@@ -34,6 +34,7 @@ export default defineConfig({
           { text: 'Before Getting Started', link: '/getting-started/before-getting-started' },
           { text: 'Theme Installation', link: '/getting-started/theme-installation' },
           { text: 'System Status', link: '/getting-started/system-status' },
+          { text: 'Plugin Installation', link: '/getting-started/plugin-installation' },
         ]
       },
       {
