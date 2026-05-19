@@ -51,6 +51,7 @@ export default defineConfig({
         items: [
           { text: 'Theme Update', link: '/how-to/themeforest-theme-update' },
           { text: 'Update WPBakery Page Builder', link: '/how-to/update-wpbakery' },
+          { text: 'Add Google Fonts to Your Theme', link: '/how-to/add-google-fonts' },
         ]
       },
       {
