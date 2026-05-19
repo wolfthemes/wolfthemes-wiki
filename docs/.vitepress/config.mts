@@ -10,7 +10,7 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'WolfThemes', link: 'https://wolfthemes.store' }
+      { text: 'WolfThemes', link: 'https://wolfthemes.com' }
     ],
 
     sidebar: [
