@@ -12,7 +12,7 @@ You can add any [Typekit (Adobe) Font](https://typekit.com/) to your theme direc
 
     Adobe Caslon Pro|Acumin Pro
 
-![Typekit Font Loader](/images/typekit-font-list.png)
+![Typekit Font Loader](/images/typekit-fonts-list.png)
 
 Your Typekit fonts will now be available anywhere in the theme where a font option is present.
 
