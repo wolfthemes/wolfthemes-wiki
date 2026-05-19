@@ -51,7 +51,15 @@ export default defineConfig({
         items: [
           { text: 'Theme Update', link: '/how-to/themeforest-theme-update' },
           { text: 'Update WPBakery Page Builder', link: '/how-to/update-wpbakery' },
+          { text: 'Translate Your Theme', link: '/how-to/translate-theme' },
           { text: 'Add Google Fonts to Your Theme', link: '/how-to/add-google-fonts' },
+          { text: 'Add Typekit Fonts to Your Theme', link: '/how-to/add-typekit-fonts' },
+          { text: 'Create a SVG Logo', link: '/how-to/create-svg-logo' },
+          { text: 'Increasing the WordPress Memory Limit', link: '/how-to/increase-wp-memory-limit' },
+          { text: 'Increasing PHP Max Input Vars', link: '/how-to/increase-php-max-input-vars' },
+          { text: 'Increasing the Upload Size Limit', link: '/how-to/increase-upload-size-limit' },
+          { text: 'Increasing Server Memory Limit', link: '/how-to/increase-server-memory-limit' },
+          { text: 'Update Your PHP Version', link: '/how-to/update-php-version' },
         ]
       },
       {
