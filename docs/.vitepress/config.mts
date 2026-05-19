@@ -5,6 +5,7 @@ export default defineConfig({
 	description: 'Documentation, FAQs and code snippets for WolfThemes products',
 	appearance: 'light',
 	ignoreDeadLinks: true,
+	base: '/',
 
   themeConfig: {
     logo: '/logo.png',
