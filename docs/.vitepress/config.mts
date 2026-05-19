@@ -39,6 +39,8 @@ export default defineConfig({
           { text: 'Import Demo Sliders', link: '/getting-started/import-demo-sliders' },
           { text: 'Home & Blog Pages', link: '/getting-started/home-blog-pages' },
           { text: 'Child Theme', link: '/getting-started/child-theme' },
+          { text: 'Activate Wolf Core Plugin', link: '/getting-started/activate-wolf-core' },
+          { text: 'Activate Wolf WPBakery Extension', link: '/getting-started/activate-wolf-wpbakery-extension' },
         ]
       },
       {
