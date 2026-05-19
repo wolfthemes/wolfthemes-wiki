@@ -58,6 +58,7 @@ export default defineConfig({
           { text: 'Add Custom Fonts to Your Theme', link: '/how-to/add-custom-fonts' },
           { text: 'Create a SVG Logo', link: '/how-to/create-svg-logo' },
           { text: 'Enable WP_DEBUG', link: '/how-to/enable-wp-debug' },
+          { text: 'Increasing Your Loading Speed', link: '/how-to/increase-loading-speed' },
           { text: 'Increasing the WordPress Memory Limit', link: '/how-to/increase-wp-memory-limit' },
           { text: 'Increasing PHP Max Input Vars', link: '/how-to/increase-php-max-input-vars' },
           { text: 'Increasing the Upload Size Limit', link: '/how-to/increase-upload-size-limit' },
