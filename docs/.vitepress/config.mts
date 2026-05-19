@@ -35,6 +35,18 @@ export default defineConfig({
           { text: 'Theme Installation', link: '/getting-started/theme-installation' },
           { text: 'System Status', link: '/getting-started/system-status' },
           { text: 'Plugin Installation', link: '/getting-started/plugin-installation' },
+          { text: 'Import Demo Data', link: '/getting-started/import-demo-data' },
+          { text: 'Import Demo Sliders', link: '/getting-started/import-demo-sliders' },
+          { text: 'Home & Blog Pages', link: '/getting-started/home-blog-pages' },
+          { text: 'Child Theme', link: '/getting-started/child-theme' },
+        ]
+      },
+      {
+        text: 'How To',
+        collapsed: true,
+        items: [
+          { text: 'Theme Update', link: '/how-to/themeforest-theme-update' },
+          { text: 'Update WPBakery Page Builder', link: '/how-to/update-wpbakery' },
         ]
       },
       {
@@ -53,15 +65,6 @@ export default defineConfig({
           { text: 'Content Blocks', link: '/features/content-blocks' },
           { text: 'Wolf Page Builder Extension', link: '/features/wolf-page-builder' },
           { text: 'Video Background Scroll', link: '/features/video-background-scroll' },
-        ]
-      },
-      {
-        text: 'How To',
-        collapsed: true,
-        items: [
-          { text: 'Update WPBakery Page Builder', link: '/how-to/update-wpbakery' },
-          { text: 'Theme Update', link: '/how-to/theme-update' },
-          { text: 'Create a Default WordPress Gallery', link: '/how-to/wordpress-gallery' },
         ]
       },
       {
@@ -88,7 +91,7 @@ export default defineConfig({
 
     footer: {
       message: 'WolfThemes Support Documentation',
-      copyright: 'Copyright © 2025 WolfThemes'
+      copyright: 'Copyright © 2026 WolfThemes'
     }
   }
 })
