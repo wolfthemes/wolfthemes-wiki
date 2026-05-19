@@ -7,7 +7,7 @@ hero:
   tagline: FAQs, guides and code snippets for all WolfThemes products
   actions:
     - theme: brand
-      text: Browse FAQs
+      text: Browse Articles
       link: /general/wordpress-general
     - theme: alt
       text: WolfThemes Store
