@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'WolfThemes Wiki',
   description: 'Documentation, FAQs and code snippets for WolfThemes products',
   appearance: 'light',
+ignoreDeadLinks: true,
 
   themeConfig: {
     logo: '/logo.png',
