@@ -1,25 +1,27 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "WolfThemes Wiki"
-  text: "Documentation, FAQs and code"
-  tagline: My great project tagline
+  name: WolfThemes Wiki
+  text: Documentation & Support
+  tagline: FAQs, guides and code snippets for all WolfThemes products
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Browse FAQs
+      link: /general/wordpress-general
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: WolfThemes Store
+      link: https://wolfthemes.com
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+  - title: Getting Started
+    details: Installation, demo import, plugin setup and everything you need to get your theme running.
+    link: /getting-started/before-getting-started
+  - title: Troubleshooting
+    details: Server requirements, common errors, stylesheet issues and how to fix them.
+    link: /general/server-requirements
+  - title: Theme Documentations
+    details: Individual documentation for each WolfThemes product.
+    link: /general/theme-documentations
 
+---
