@@ -5,7 +5,6 @@ All of our themes require that you have WordPress installed and running on a hos
 Here is a list of web hosts recommended by WordPress and by WolfThemes:
 
 - [SiteGround](https://www.siteground.com/recommended?referrer_id=8486532) — Best one
-- [Bluehost](http://www.bluehost.com/track/wpwolf)
 - [Flywheel](https://share.getf.ly/c65t7e)
 - [IONOS](https://ionos.com)
 
