@@ -72,6 +72,7 @@ export default defineConfig({
         items: [
           { text: 'Stylesheet is Missing', link: '/troubleshooting/stylesheet-missing' },
           { text: 'Issue Importing Demo', link: '/troubleshooting/issue-importing-demo' },
+          { text: 'Elementor Settings', link: '/troubleshooting/elementor-settings' },
           { text: 'Slider Revolution Not Starting', link: '/troubleshooting/slider-revolution' },
         ]
       },
