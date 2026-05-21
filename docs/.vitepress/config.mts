@@ -26,6 +26,8 @@ export default defineConfig({
           { text: 'Keep WordPress Up To Date', link: '/general/keep-wordpress-up-to-date' },
           { text: 'Low Budget Hosts', link: '/general/low-budget-hosts' },
           { text: 'Theme Documentations', link: '/general/theme-documentations' },
+		  { text: 'GD Library', link: '/general/gd-library' },
+		  { text: 'Curl Extension', link: '/general/curl-extension' },
         ]
       },
       {
@@ -92,7 +94,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Coming Soon / Maintenance Mode', link: '/extras/coming-soon' },
-          { text: 'Integrate Google Analytics', link: '/extras/google-analytics' },
+          { text: 'Create a Custom 404 Page', link: '/extras/custom-404-page' },
+		  { text: 'Integrate Google Analytics', link: '/extras/google-analytics' },
           { text: 'Security Tips', link: '/extras/security-tips' },
         ]
       },
