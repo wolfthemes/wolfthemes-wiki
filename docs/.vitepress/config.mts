@@ -26,7 +26,6 @@ export default defineConfig({
           { text: 'Keep WordPress Up To Date', link: '/general/keep-wordpress-up-to-date' },
           { text: 'Low Budget Hosts', link: '/general/low-budget-hosts' },
           { text: 'Theme Documentations', link: '/general/theme-documentations' },
-          { text: 'Bundled Plugin Activation', link: '/general/bundled-plugin-activation' },
         ]
       },
       {
@@ -44,6 +43,8 @@ export default defineConfig({
           { text: 'Child Theme', link: '/getting-started/child-theme' },
           { text: 'Activate Wolf Core Plugin', link: '/getting-started/activate-wolf-core' },
           { text: 'Activate Wolf WPBakery Extension', link: '/getting-started/activate-wolf-wpbakery-extension' },
+
+          { text: 'Bundled Plugin Activation', link: '/getting-started/bundled-plugin-activation' },
         ]
       },
       {
