@@ -98,7 +98,6 @@ export default defineConfig({
         items: [
           { text: 'Coming Soon / Maintenance Mode', link: '/extras/coming-soon' },
           { text: 'Create a Custom 404 Page', link: '/extras/custom-404-page' },
-		  { text: 'Integrate Google Analytics', link: '/extras/google-analytics' },
           { text: 'Security Tips', link: '/extras/security-tips' },
         ]
       },
