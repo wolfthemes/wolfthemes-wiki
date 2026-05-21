@@ -71,6 +71,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Stylesheet is Missing', link: '/troubleshooting/stylesheet-missing' },
+          { text: '404 Error', link: '/troubleshooting/404-error' },
           { text: 'Issue Importing Demo', link: '/troubleshooting/issue-importing-demo' },
           { text: 'Elementor Settings', link: '/troubleshooting/elementor-settings' },
           { text: 'Slider Revolution Not Starting', link: '/troubleshooting/slider-revolution' },
