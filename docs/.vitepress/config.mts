@@ -26,6 +26,7 @@ export default defineConfig({
           { text: 'Keep WordPress Up To Date', link: '/general/keep-wordpress-up-to-date' },
           { text: 'Low Budget Hosts', link: '/general/low-budget-hosts' },
           { text: 'Theme Documentations', link: '/general/theme-documentations' },
+		  { text: 'Compatible 3rd Party Plugins', link: '/general/compatible-plugins' },
 		  { text: 'GD Library', link: '/general/gd-library' },
 		  { text: 'Curl Extension', link: '/general/curl-extension' },
         ]
@@ -55,7 +56,9 @@ export default defineConfig({
         items: [
           { text: 'Theme Update', link: '/how-to/themeforest-theme-update' },
           { text: 'Update WPBakery Page Builder', link: '/how-to/update-wpbakery' },
+	      { text: 'Update Slider Revolution', link: '/how-to/update-slider-revolution' },
           { text: 'Translate Your Theme', link: '/how-to/translate-theme' },
+		  { text: 'Import Elementor Templates', link: '/how-to/import-elementor-templates' },
           { text: 'Add Google Fonts to Your Theme', link: '/how-to/add-google-fonts' },
           { text: 'Add Typekit Fonts to Your Theme', link: '/how-to/add-typekit-fonts' },
           { text: 'Add Custom Fonts to Your Theme', link: '/how-to/add-custom-fonts' },
