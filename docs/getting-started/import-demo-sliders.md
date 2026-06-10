@@ -8,7 +8,7 @@ First, get the slider template files from your [theme documentation](../general/
 
 Or use the direct download link below, replacing `decibel` with your theme slug (e.g. `poize`, `sable`, `nordkapp`):
 
-    https://downloads.wolfthemes.com/?theme=decibel
+    https://downloads.wolfthemes.cloud/?theme=decibel
 
 Download the demo data files and locate the sliders in the **revslider** folder.
 
