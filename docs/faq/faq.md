@@ -16,7 +16,7 @@ Video backgrounds are disabled on mobile by default as most devices don't handle
 ## 404 error on custom post type pages
 
 Go to **Settings > Permalinks** and click **Save Changes** to flush rewrite rules.
-[Read more →](../troubleshooting/404-error-page)
+[Read more →](../troubleshooting/404-error)
 
 ## Demo content fails to import
 
@@ -36,7 +36,7 @@ Check that Elementor's default fonts are disabled under **Elementor > Settings >
 ## How do I update my theme?
 
 Use the [Envato Market plugin](https://github.com/envato/wp-envato-market) for automatic updates, or download the latest package from ThemeForest and re-upload manually.
-[Read more →](../how-to/theme-update)
+[Read more →](../how-to/themeforest-theme-update)
 
 ## My site is slow — how do I speed it up?
 
@@ -46,4 +46,4 @@ Make sure you are on a [reliable host](../general/recommended-web-hosts) and ins
 ## How do I translate my theme?
 
 Use the [Loco Translate](https://wordpress.org/plugins/loco-translate/) plugin to translate directly in your WordPress admin using the `.pot` file included in the theme package.
-[Read more →](../extras/theme-translation)
+[Read more →](../how-to/translate-theme)

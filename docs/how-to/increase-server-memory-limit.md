@@ -4,4 +4,4 @@ To increase the Server Memory Limit you need to access and modify certain server
 
 **Contact your host first** and ask them to increase your PHP memory limit — most reputable hosts can do this on request.
 
-If you have server access, see the methods described in [Increase PHP Memory Limit](./increase-memory-limit) and [Server Requirements](../general/server-requirements) for the recommended minimum values.
+If you have server access, see the methods described in [Increase PHP Memory Limit](./increase-wp-memory-limit) and [Server Requirements](../general/server-requirements) for the recommended minimum values.

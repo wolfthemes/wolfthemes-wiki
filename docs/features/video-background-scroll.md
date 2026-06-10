@@ -19,7 +19,7 @@ ffmpeg -i yourfile.mov -vf scale=2000:ih/2*2 -movflags faststart -vcodec libx264
 
 3. Hit **Enter** and wait a few minutes for the conversion to complete.
 
-![ffmpeg-web download](https://cdn-std.droplr.net/files/acc_883999/mVijm7)
+![ffmpeg-web download](/images/video-scroll-download.png)
 
 4. Download the converted file and use it in the Video Scroll element.
 

@@ -45,9 +45,6 @@ export default defineConfig({
           { text: 'Home & Blog Pages', link: '/getting-started/home-blog-pages' },
           { text: 'Child Theme', link: '/getting-started/child-theme' },
           { text: 'Activate Your Theme via Envato', link: '/getting-started/activate-theme-envato' },
-          { text: 'Activate Wolf Core Plugin', link: '/getting-started/activate-theme-envato' },
-          { text: 'Activate Wolf WPBakery Extension', link: '/getting-started/activate-theme-envato' },
-
           { text: 'Bundled Plugin Activation', link: '/getting-started/bundled-plugin-activation' },
         ]
       },

@@ -2,7 +2,7 @@
 
 ## Security
 
-It is essential to keep your WordPress installation up to date, at least for security reasons. WordPress currently powers 23% of all websites in the world. Due to its immense popularity, WordPress is a popular target for hackers, malicious code distributors and data thieves. Every time a new version of WordPress is released, it comes with security fixes and improvements — updating your installation directly improves the safety of your website.
+It is essential to keep your WordPress installation up to date, at least for security reasons. WordPress is a popular target for hackers, malicious code distributors and data thieves. Every time a new version of WordPress is released, it comes with security fixes and improvements — updating your installation directly improves the safety of your website.
 
 ## New Features
 

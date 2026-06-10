@@ -4,7 +4,7 @@ To avoid headaches with server-side issues, be sure to check our list of [Recomm
 
 ---
 
-To use our WordPress themes you must be running **WordPress 6.0** or higher, **PHP 8.0** or higher (PHP 8.3 recommended) and **MySQL 7** or higher. Our themes have been tested on all major browsers. Below is a checklist of items your host needs to comply with:
+To use our WordPress themes you must be running **WordPress 6.0** or higher, **PHP 8.0** or higher (PHP 8.3 recommended) and **MySQL 8.0** or higher (or MariaDB 10.4+). Our themes have been tested on all major browsers. Below is a checklist of items your host needs to comply with:
 
 - Ensure your web host has the [recommended requirements](https://wordpress.org/about/requirements/) to run WordPress.
 - Make sure the [latest version of WordPress](https://wordpress.org/download/) is up and running.

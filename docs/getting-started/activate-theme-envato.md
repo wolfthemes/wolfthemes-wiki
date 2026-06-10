@@ -1,4 +1,4 @@
-# Activate Your Theme vie Envato
+# Activate Your Theme via Envato
 
 > **ThemeForest purchases only.** If you purchased the theme through wolfthemes.com, the theme is activated automatically — no action needed.
 
@@ -12,7 +12,7 @@ Then, go to **Appearance > About the Theme** and click the **License** tab. Ente
 
 ![Envato License](/images/license-activation.png)
 
-**You don't need to activate anything else.** See [Bundled Premium Plugin Activation](../general/bundled-plugin-activation) for more information.
+**You don't need to activate anything else.** See [Bundled Premium Plugin Activation](./bundled-plugin-activation) for more information.
 
 ---
 

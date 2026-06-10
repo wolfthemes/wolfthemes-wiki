@@ -8,7 +8,7 @@ On some hosts like **GoDaddy, 1&1 and Hostgator** basic plans, you may experienc
 
 Most problems are caused by the WP Memory Limit — the maximum amount of RAM your site can use at one time. When you reach your memory limit you will encounter a fatal error. WordPress itself, your theme and your plugins all consume memory. The more content and features you add, the higher your memory limit needs to be.
 
-To increase PHP parameters on GoDaddy, create a new file named `php5.ini` (or edit it if it already exists) and add the following:
+To increase PHP parameters on GoDaddy, create a new file named `php.ini` (or edit it if it already exists) and add the following:
 
     upload_max_filesize = 48M
     post_max_size = 48M
