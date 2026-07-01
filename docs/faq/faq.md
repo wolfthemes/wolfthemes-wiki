@@ -7,7 +7,8 @@ Be sure to upload only the theme zip file, not the full downloaded package from 
 
 ## Where can I find my purchase code?
 
-In your [ThemeForest Downloads](https://themeforest.net/downloads), click the **Download** button next to your theme and select **License certificate & purchase code (text)**.
+- After purchaseing your theme on [WolfThemes.com](https://wolfthemes.com), you will received by email direclty in your inbox
+- In your [ThemeForest Downloads](https://themeforest.net/downloads), click the **Download** button next to your theme and select **License certificate & purchase code (text)**.
 
 ## My video background doesn't work on mobile
 
