@@ -8,5 +8,5 @@ Some plugins may ask for a purchase code for registration once installed. You ca
 
 Any time a plugin is updated, you will find the latest version in the `includes/admin/plugins` or `config/plugins` folder of the theme.
 
-For more information, see the official Envato documentation:
+This applies regardless of whether you purchased the theme on wolfthemes.com or ThemeForest. For more information, see the official Envato documentation:
 [help.market.envato.com — Bundled Plugins](https://help.market.envato.com/hc/en-us/articles/213762463-Bundled-Plugins)

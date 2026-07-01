@@ -2,13 +2,13 @@
 
 ## Stylesheet is missing or theme installation fails
 
-Be sure to upload only the theme zip file, not the full downloaded package from ThemeForest. If the issue persists, check your [Server Requirements](../general/server-requirements).
+Be sure to upload only the theme zip file, not the full downloaded package (from wolfthemes.com or ThemeForest). If the issue persists, check your [Server Requirements](../general/server-requirements).
 [Read more →](../troubleshooting/stylesheet-missing)
 
 ## Where can I find my purchase code?
 
-- After purchaseing your theme on [WolfThemes.com](https://wolfthemes.com), you will received by email direclty in your inbox
-- In your [ThemeForest Downloads](https://themeforest.net/downloads), click the **Download** button next to your theme and select **License certificate & purchase code (text)**.
+- If you purchased on [wolfthemes.com](https://wolfthemes.com), your Freemius license key is sent directly to your inbox in your purchase confirmation email, and is also available in your Freemius account.
+- If you purchased on ThemeForest, go to your [ThemeForest Downloads](https://themeforest.net/downloads), click the **Download** button next to your theme and select **License certificate & purchase code (text)**.
 
 ## My video background doesn't work on mobile
 
@@ -36,8 +36,8 @@ Check that Elementor's default fonts are disabled under **Elementor > Settings >
 
 ## How do I update my theme?
 
-Use the [Envato Market plugin](https://github.com/envato/wp-envato-market) for automatic updates, or download the latest package from ThemeForest and re-upload manually.
-[Read more →](../how-to/themeforest-theme-update)
+If you purchased on wolfthemes.com, Freemius notifies you in your admin dashboard and lets you update in one click. If you purchased on ThemeForest, use the [Envato Market plugin](https://github.com/envato/wp-envato-market) for automatic updates, or download the latest package and re-upload manually.
+[Read more →](../how-to/update-theme)
 
 ## My site is slow — how do I speed it up?
 

@@ -44,7 +44,7 @@ export default defineConfig({
           { text: 'Import Demo Sliders', link: '/getting-started/import-demo-sliders' },
           { text: 'Home & Blog Pages', link: '/getting-started/home-blog-pages' },
           { text: 'Child Theme', link: '/getting-started/child-theme' },
-          { text: 'Activate Your Theme via Envato', link: '/getting-started/activate-theme-envato' },
+          { text: 'Activate Your Theme', link: '/getting-started/activate-theme' },
           { text: 'Bundled Plugin Activation', link: '/getting-started/bundled-plugin-activation' },
         ]
       },
@@ -52,7 +52,7 @@ export default defineConfig({
         text: 'How To',
         collapsed: true,
         items: [
-          { text: 'Theme Update', link: '/how-to/themeforest-theme-update' },
+          { text: 'Updating Your Theme', link: '/how-to/update-theme' },
           { text: 'Update WPBakery Page Builder', link: '/how-to/update-wpbakery' },
 	      { text: 'Update Slider Revolution', link: '/how-to/update-slider-revolution' },
           { text: 'Translate Your Theme', link: '/how-to/translate-theme' },

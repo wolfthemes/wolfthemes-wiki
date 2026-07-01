@@ -7,7 +7,7 @@ Importing the demo data is the easiest way to set up your theme. It will allow y
 Before you begin, make sure that:
 
 - Your server settings fulfill the [Server Requirements](../general/server-requirements).
-- You have entered your theme Freemius/Envato purchase code
+- You have entered your theme license key (Freemius license key for wolfthemes.com purchases, or Envato purchase code for ThemeForest purchases)
 - The site language is set to **English (United States)** under **Settings > General**. You can change it afterwards.
 - All third-party plugins are deactivated except those recommended by the theme.
 

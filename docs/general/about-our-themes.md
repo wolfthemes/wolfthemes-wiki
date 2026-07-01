@@ -1,6 +1,6 @@
 # About our Themes
 
-Each of our themes is carefully coded respecting the [WordPress coding standards](https://codex.wordpress.org/WordPress_Coding_Standards). All themes have been reviewed by the ThemeForest review team to guarantee the highest quality.
+Each of our themes is carefully coded respecting the [WordPress coding standards](https://codex.wordpress.org/WordPress_Coding_Standards). Our themes are sold directly on [wolfthemes.com](https://wolfthemes.com) and on ThemeForest, where they have been reviewed by the ThemeForest review team, to guarantee the highest quality.
 
 Our most recent themes share the same code structure and core features to maintain consistency among the theme collection and allow switching from theme to theme easily. What makes each theme unique is the specific features and design it offers depending on the field it targets.
 

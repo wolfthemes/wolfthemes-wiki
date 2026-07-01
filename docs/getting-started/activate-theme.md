@@ -1,6 +1,14 @@
-# Activate Your Theme via Envato
+# Activate Your Theme
 
-> **ThemeForest purchases only.** If you purchased the theme through wolfthemes.com, the theme is activated automatically — no action needed.
+## Activate via wolfthemes.com (Freemius)
+
+Once the theme is installed and activated, a Freemius opt-in screen will appear prompting you to enter your license key.
+
+Enter the license key from your purchase confirmation email or your Freemius account to activate the theme.
+
+**You don't need to activate anything else.** See [Bundled Premium Plugin Activation](./bundled-plugin-activation) for more information.
+
+## Activate via ThemeForest (Envato)
 
 ![Theme Activation](/images/theme-activation-notice.png)
 
